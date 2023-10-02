@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47422071452",
+    "project_id": "vibgyo-e7ec1",
+    "storage_bucket": "vibgyo-e7ec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47422071452:android:96627ce483480791128359",
+        "android_client_info": {
+          "package_name": "com.vibgyo.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkfXwvLyt7hoJoCxh7BrVz8pycfTg62PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
